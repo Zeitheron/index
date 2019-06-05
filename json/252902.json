@@ -1,0 +1,18 @@
+{
+  "homepage": "https://minecraft.curseforge.com/projects/252902",
+  "changelog": "1.13.2 Port!",
+  "discord": "PQKdXYX",
+  "discordURL": "http://dccg.herokuapp.com/invite/zeithdev",
+  "dev": {
+    "live": false,
+    "url": "https://www.youtube.com/ZeithTheWolf/live"
+  },
+  "promos": {
+    "latest": "70r",
+    "recommended": "70r",
+    "1.13.2-latest": "70r",
+    "1.13.2-recommended": "70r",
+    "1.12.2-latest": "3.6.1r",
+    "1.12.2-recommended": "3.6.1r"
+  }
+}
